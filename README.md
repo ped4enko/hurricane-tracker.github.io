@@ -5,6 +5,20 @@ Hurricane Tracker is your go-to source for real-time updates and information on 
 
 Hurricane Tracker provides the most accurate and up-to-date information on hurricanes, tropical storms, and severe weather events. Our platform is designed to keep you informed, prepared, and safe, with real-time tracking maps, expert forecasts, and emergency alerts.
 
+## Recommended Trusted Services for Hurricane Tracking
+
+For additional reliable resources, consider using the following trusted services:
+
+- [**Weather.gov - US Map of Public Alerts**](https://www.weather.gov/): Provides an interactive map of current public alerts across the United States, including hurricane warnings and updates.
+
+- [**AccuWeather Hurricane Tracker**](https://www.accuweather.com/en/hurricane): Offers a comprehensive list of all active hurricanes with detailed data on various parameters such as wind speeds, paths, and intensities.
+
+- [**NOAA's Live Hurricane Tracker**](https://www.nesdis.noaa.gov/imagery/hurricanes/live-hurricane-tracker): Considered one of the best services for live hurricane tracking with high-quality imagery and real-time updates.
+
+- [**The Weather Channel's Hurricane Central**](https://weather.com/storms/hurricane-central): Provides key highlights, news, and updates on active hurricanes, including potential impacts and preparedness tips.
+
+---
+
 ## Why Choose Hurricane Tracker?
 
 - **Real-Time Storm Tracking**  
